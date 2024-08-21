@@ -1,0 +1,1 @@
+ C:\\Desktop\\charging_3\\.dart_tool\\flutter_build\\9ddf8801209c2d87e096fc25ae28518e\\native_assets.yaml: 
